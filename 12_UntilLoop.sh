@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #Number guessing game using until loop
 target=$(( RANDOM % 10 +1 ))
 a=0
